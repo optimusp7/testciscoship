@@ -13,7 +13,9 @@
 	</style>
 </head>
 <body>
-	<img id="logo" src="logo_blue.png" alt="logo.png"/>
-	<h1><?php echo "Hello, World!!"; ?></h1>
+	<img id="logo" src="http://i.huffpost.com/gen/2836908/original.jpg" alt="success"/>
+	<h1><?php echo "yeah<br>"; 
+	var_dump($_SERVER);
+	?></h1>
 </body>
 </html>
